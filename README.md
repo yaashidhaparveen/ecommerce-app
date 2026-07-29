@@ -1,6 +1,6 @@
 # E-Commerce Web Application
 
-A full-stack e-commerce web app built during my internship at Thinapex — supports product browsing, cart, checkout, and role-based access for admins and users.
+A full-stack e-commerce web app built during my internship at Thiranex — supports product browsing, cart, checkout, and role-based access for admins and users.
 
 ## 🛠️ Tech Stack
 
